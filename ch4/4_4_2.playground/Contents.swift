@@ -1,5 +1,7 @@
 import Swift
+
 import UIKit
+
 
 //컬렉션형
 //딕셔너리 -> 요소들이 순서 없이 키와 값의 쌍으로 구성되는 컬렉션 타입.
@@ -24,4 +26,6 @@ var numberForName: [String: Int] = ["donghyeon": 100, "chulsoo": 200, "jenny": 3
 
 print(numberForName.isEmpty)
 print(numberForName.count)
+
+
 
